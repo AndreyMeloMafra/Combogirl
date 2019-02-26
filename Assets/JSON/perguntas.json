@@ -1,0 +1,825 @@
+﻿{
+    "perguntas": [
+
+        {
+            "section": "Praia",
+            "question":"Paiva beach has...",
+            "answerA": "White sand and blue sea",
+            "answerB": "Black sand and green sea",
+            "answerC": "Blue sand and White sea",
+            "answerD": "Green sand and blue sea",
+            "rightAnswer": "A",
+            "score": 50
+        },
+        {
+            "section": "Praia",
+            "question":"The name Itapuama is derived from Tupi (Indigenous Brazilian Language). In Portuguese it is:",
+            "answerA": "Rocha dura",
+            "answerB": "Buraco na pedra",
+            "answerC": "Pedra Bonita",
+            "answerD": "Pedra Furada",
+            "rightAnswer": "C",
+            "score": 250
+        },
+        {
+            "section": "Praia",
+            "question":"Itapuama beach has golden",
+            "answerA": "Sea",
+            "answerB": "Sand",
+            "answerC": "Sky",
+            "answerD": "Coconut trees",
+            "rightAnswer": "B",
+            "score": 50
+        },
+        {
+            "section": "Praia",
+            "question":"There are reefs and natural pools on Paiva beach. Reefs and natural pools, in Portuguese:",
+            "answerA": "Rios e lagoas naturais",
+            "answerB": "Rochas e dunas naturais",
+            "answerC": "Arrecifes e piscinas naturais",
+            "answerD": "Corais e areia natural",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Praia",
+            "question":"“Festa da Lavadeira” happens in…",
+            "answerA": " Paiva beach",
+            "answerB": " Gaibu beach",
+            "answerC": "Calhetas beach",
+            "answerD": "Paraíso beach",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Praia",
+            "question": "What is the name of the beach located between Paraíso beach and Massangana river?",
+            "answerA": "Pedra de Xaréu",
+            "answerB": " Itapuama",
+            "answerC": " Suape",
+            "answerD": " Gaibú",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Praia",
+            "question": "Which beach located in Cabo de Santo Agostinho was considered one of the most beautiful beaches in the world?",
+            "answerA": " Calhetas",
+            "answerB": " Suape",
+            "answerC": "Gaibu",
+            "answerD": "Itapuama",
+            "rightAnswer": "A",
+            "score": 150
+        },
+        {
+            "section": "Praia",
+            "question": "What is the smallest beach in Cabo de Santo Agostinho?",
+            "answerA": " Enseadas dos Corais",
+            "answerB": " Paraíso",
+            "answerC": " Pedra de Xaréu",
+            "answerD": "Suape",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Praia",
+            "question": "What is the beach of Cabo de Santo Agostinho that has volcanic rocks (black stone)?",
+            "answerA": "Pedra de Xaréu",
+            "answerB": " Paiva",
+            "answerC": "Paraíso",
+            "answerD": "Gaibú",
+            "rightAnswer": "A",
+            "score": 250
+        },
+        {
+            "section": "Praia",
+            "question": "Which beach in Cabo de Santo Agostinho tourists can try the medicinal mud bath (white clay)?",
+            "answerA": " Itapuama",
+            "answerB": " Paraíso",
+            "answerC": "Calhetas",
+            "answerD": " Paiva",
+            "rightAnswer": "A",
+            "score": 250
+        },
+        {
+            "section": "Praia",
+            "question": "What was the old name of Paraíso beach??",
+            "answerA": " Tatuoca",
+            "answerB": " Preguiça",
+            "answerC": " Cocaia",
+            "answerD": " Bambu",
+            "rightAnswer": "B",
+            "score": 200
+        },
+        {
+            "section": "Praia",
+            "question": "What is the ideal beach for surfing in Cabo de Santo Agostinho?",
+            "answerA": " Calhetas",
+            "answerB": "Itapuama",
+            "answerC": " Suape",
+            "answerD": " Gaibú",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Praia",
+            "question": "Complete a frase com a forma correta do verbo to be: my father and my mother___ in Calhetas beach",
+            "answerA": "Is ",
+            "answerB": "Am ",
+            "answerC": "Are ",
+            "answerD": "Is not",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Praia",
+            "question": "Enseada dos Corais is a....",
+            "answerA": "Lagoon ",
+            "answerB": "Beach ",
+            "answerC": "Lake ",
+            "answerD": "River",
+            "rightAnswer": "B",
+            "score": 50
+        },
+        {
+            "section": "Praia",
+            "question": "Which beaches are located in Cabo de Santo Agostinho?",
+            "answerA": "Calhetas, Itamaracá, Gaibu",
+            "answerB": "Paraíso, boa viagem, Suape ",
+            "answerC": "Gaibu,Suape, Casa Caiada",
+            "answerD": "Paiva, Gaibu, Enseadas dos Corais ",
+            "rightAnswer": "D",
+            "score": 150
+        },
+        {
+            "section": "Praia",
+            "question": "What is the color of the sea in Cabo de Santo Agostinho beaches?",
+            "answerA": "Blue or green",
+            "answerB": "Black and white ",
+            "answerC": "Red or yellow",
+            "answerD": "Brown and orange ",
+            "rightAnswer": "A",
+            "score": 50
+        },
+        {
+            "section": "Praia",
+            "question": "Which animals live in the sea?",
+            "answerA": "Pigs",
+            "answerB": "Fish",
+            "answerC": "Cows",
+            "answerD": "Dogs",
+            "rightAnswer": "B",
+            "score": 50
+        },
+        {
+            "section": "Praia",
+            "question": "What color is the sun?",
+            "answerA": "Blue ",
+            "answerB": "Green",
+            "answerC": "Yellow",
+            "answerD": "Black ",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Praia",
+            "question": "Which beaches are not part of Cabo de Santo Agostinho?",
+            "answerA": "Itamaracá, Boa Viagem, Candeias ",
+            "answerB": "Gaibu, Calhetas, Suape ",
+            "answerC": "Paiva, Enseadas dos Corais, Gaibu",
+            "answerD": "Calhetas, Paiva, Suape ",
+            "rightAnswer": "A",
+            "score": 200
+        },
+        {
+            "section": "Praia",
+            "question": "Gaibu, calhetas and paiva are ____ famous beaches ",
+            "answerA": "Two",
+            "answerB": "Three",
+            "answerC": "A",
+            "answerD": "One",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Praia",
+            "question": "People usually wear _____ on the beach",
+            "answerA": "Shorts and bikinis",
+            "answerB": "Pants ",
+            "answerC": "Coats",
+            "answerD": "Dresses",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "When was Cabo de Santo Agostinho founded?",
+            "answerA": "February 15, 1812 ",
+            "answerB": "November 15, 1715",
+            "answerC": "September 7, 1680",
+            "answerD": "October 12, 1800",
+            "rightAnswer": "A",
+            "score": 250
+        },
+        {
+            "section": "s",
+            "question": "They are neighborhoods in Cabo de Santo Agostinho",
+            "answerA": "Boa Viagem, Candeias, Destilaria, Rosário",
+            "answerB": "Mercês, Destilaria, Charneca, Cohab",
+            "answerC": "Casa Amarela, Mercês, Rosário, Torre",
+            "answerD": "Charnequinha, Cohab, Centro, Piedade",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "They are hospitals in Cabo de Santo Agostinho:",
+            "answerA": "Esperança, Albert Sabin, Restauração",
+            "answerB": "Santa Joana, São Sebastião, São Marcos",
+            "answerC": "Samaritano, Dom Helder, São Sebastião",
+            "answerD": "Dom Helder, Santa Joana, Restauração, Samaritano",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "They are schools in Cabo de Santo Agostinho:",
+            "answerA": "Luisa Guerra, Ginásio Pernambucano, Liceu",
+            "answerB": "Passo a Passo, Epitácio Pessoa, Motivo",
+            "answerC": "Madre Iva, Luisa Guerra, Damas",
+            "answerD": "Epitácio Pessoa, Antonio Benedito da Rocha, Madre Iva ",
+            "rightAnswer": "D",
+            "score": 50
+        },
+        {
+            "section": "Cidade",
+            "question": "Estação Santo Inácio is:",
+            "answerA": "a train station ",
+            "answerB": "a bus station",
+            "answerC": "a street",
+            "answerD": "an avenue",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "What is the name of the Public Library of Cabo de Santo Agostinho?",
+            "answerA": "Antonio Benedito da Rocha",
+            "answerB": "Joaquim Nabuco ",
+            "answerC": "Cláudio Gueiros Leite",
+            "answerD": "Alcides do Nascimento Lins",
+            "rightAnswer": "B",
+            "score": 250
+        },
+        {
+            "section": "Cidade",
+            "question": "T.I Cabo / T.I Cajueiro Seco is:",
+            "answerA": "a train station",
+            "answerB": "a bus station",
+            "answerC": "a bus line ",
+            "answerD": "a library",
+            "rightAnswer": "C",
+            "score": 50
+        },
+        {
+            "section": "Cidade",
+            "question": "Praça 9 de julho is:",
+            "answerA": "a street",
+            "answerB": "an avenue",
+            "answerC": "a square ",
+            "answerD": "a museum",
+            "rightAnswer": "C",
+            "score": 200
+        },
+        {
+            "section": "Cidade",
+            "question": "Historiador Pereira da Costa,  José Lins Teles and Presidente Getúlio Vargas are:",
+            "answerA": "streets",
+            "answerB": "avenues",
+            "answerC": "churches",
+            "answerD": "schools",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "Arco Mix is:",
+            "answerA": "a restaurant",
+            "answerB": "a school",
+            "answerC": "a library",
+            "answerD": "a supermarket",
+            "rightAnswer": "D",
+            "score": 50
+        },
+        {
+            "section": "Cidade",
+            "question": "Parque do Eucalipto is:",
+            "answerA": "a park in Mercês",
+            "answerB": "a square in COHAB",
+            "answerC": "a park in Ponte dos Carvalhos",
+            "answerD": "a square in Pontezinha",
+            "rightAnswer": "C",
+            "score": 250
+        },
+        {
+            "section": "Cidade",
+            "question": "You can buy fruits in Mercadão. They are some fruits:",
+            "answerA": "Orange, apple, banana, mango",
+            "answerB": "Spaghetti, lasagna, fettuccine, pasta",
+            "answerC": "Meat, chicken, pork, fish",
+            "answerD": "Carrot, onion, broccoli, garlic",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "Mercês is:",
+            "answerA": "A beach in Cabo",
+            "answerB": "A neighborhood in Cabo ",
+            "answerC": "A street in Cabo",
+            "answerD": "An avenue in Cabo",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "IFPE campus Cabo de Santo Agostinho is located in:",
+            "answerA": "Cohab",
+            "answerB": "Pontezinha",
+            "answerC": "Centro",
+            "answerD": "Destilaria",
+            "rightAnswer": "D",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "Chácara is a:",
+            "answerA": "Square",
+            "answerB": "Supermarket",
+            "answerC": "Restaurant",
+            "answerD": "Park",
+            "rightAnswer": "C",
+            "score": 50
+        },
+        {
+            "section": "Cidade",
+            "question": "In Costa Dourada shopping we can buy:",
+            "answerA": "eletronics",
+            "answerB": "foods",
+            "answerC": "clothes",
+            "answerD": "all the alternatives are correct",
+            "rightAnswer": "D",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "Antonio Benedito da Rocha is:",
+            "answerA": "A public school in COHAB",
+            "answerB": "A public university in CIDADE GARAPU",
+            "answerC": "A public school in CIDADE GARAPU",
+            "answerD": "A public university in COHAB",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Cidade",
+            "question": "PE-60 and BR-101 are:",
+            "answerA": "Streets",
+            "answerB": "Highways",
+            "answerC": "Avenues",
+            "answerD": "Squares",
+            "rightAnswer": "B",
+            "score": 250
+        },
+        {
+            "section": "Cidade",
+            "question": "Santa Rosa and Pague Menos are:",
+            "answerA": "libraries",
+            "answerB": "parks",
+            "answerC": "streets",
+            "answerD": "pharmacies",
+            "rightAnswer": "D",
+            "score": 50
+        },
+        {
+            "section": "Cidade",
+            "question":"A person who was born in Cabo is:",
+            "answerA": "caboano",
+            "answerB": "cabano",
+            "answerC": "cabense",
+            "answerD": "caboense",
+            "rightAnswer": "C",
+            "score": 50
+        },
+        {
+            "section": "Cultura",
+            "question": "Who is Mestre Uruda?",
+            "answerA": "a writer",
+            "answerB": "a plastic artist",
+            "answerC": "a singer",
+            "answerD": "a dancer",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Cultura",
+            "question":"Sambada de Pontezinha is related to:",
+            "answerA": "the tradition of quadrilhas juninas",
+            "answerB": "the tradition of frevo",
+            "answerC": "the tradition of coco de roda and ciranda",
+            "answerD": "the tradition of maracatu",
+            "rightAnswer": "C",
+            "score": 200
+        },
+        {
+            "section": "Cultura",
+            "question":"When Sambada de Pontezinha was inserted in the popular culture of Cabo? And who was the responsible?",
+            "answerA": "1980, Ivan Marinho",
+            "answerB": "1500, Vicente Pinzon",
+            "answerC": "1978, Mestre Uruda",
+            "answerD": "1975, Zezinho e Goitá ",
+            "rightAnswer": "D",
+            "score": 250
+        },
+        {
+            "section": "Cultura",
+            "question":"Who is Esperantivo?",
+            "answerA": "a poet",
+            "answerB": "a singer",
+            "answerC": "a musicist",
+            "answerD": "a dancer",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question":"Where is located Esperantivo – Casa, Comida e Cultura?",
+            "answerA": "Destilaria",
+            "answerB": "Mercês",
+            "answerC": "COHAB",
+            "answerD": "Vila de Nazaré",
+            "rightAnswer": "D",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question":"What is the old name of Mercado das Artes?",
+            "answerA": "Mercado das esculturas",
+            "answerB": "Mercado de farinha",
+            "answerC": "Mercado do bolo",
+            "answerD": "Mercado livre",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Cultura",
+            "question":"What is Mercado das Artes?",
+            "answerA": "is a place for exhibitions and artistic presentations",
+            "answerB": "is a place to ride a bike",
+            "answerC": "is a food park",
+            "answerD": "is a shopping center",
+            "rightAnswer": "A",
+            "score": 150
+        },
+        {
+            "section": "Cultura",
+            "question": "Where is Mercado das Artes located?",
+            "answerA": "Pontezinha",
+            "answerB": "Ponte dos Carvalhos",
+            "answerC": "Charnequinha",
+            "answerD": "Centro",
+            "rightAnswer": "D",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question": "Before Portugueses arrive in Brazil, who lived in Cabo de Santo Agostinho?",
+            "answerA": "Africans",
+            "answerB": "Caetés indians",
+            "answerC": "Brazilians",
+            "answerD": "Spanish",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Cultura",
+            "question":"Trem do Forró is a traditional event of...",
+            "answerA": "June calendar of Pernambuco. ",
+            "answerB": "July calendar of Pernambuco.",
+            "answerC": "January calendar of Pernambuco.",
+            "answerD": "December calendar of Pernambuco.",
+            "rightAnswer": "A",
+            "score": 250
+        },
+        {
+            "section": "Cultura",
+            "question": "Festa da Lavadeira is in...",
+            "answerA": "Suape beach",
+            "answerB": "Paiva beach",
+            "answerC": "Itapuama beach",
+            "answerD": "Paraíso beach",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Cultura",
+            "question": "Festa da Lavadeira is",
+            "answerA": "on May 1st",
+            "answerB": "on October 12th",
+            "answerC": "on December 25th",
+            "answerD": "on January 1st",
+            "rightAnswer": "A",
+            "score": 200
+        },
+        {
+            "section": "Cultura",
+            "question": "Mocaspe is a....",
+            "answerA": "Cinema festival",
+            "answerB": "Theater festival",
+            "answerC": "Dance group",
+            "answerD": "Music group",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Cultura",
+            "question": "Bacamarte and Brigões de Suape are",
+            "answerA": "Maracatus",
+            "answerB": "Musical groups",
+            "answerC": "Caboclinhos",
+            "answerD": "Quadrilhas juninas",
+            "rightAnswer": "D",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question": "Who was Celina de Holanda?",
+            "answerA": "An actress",
+            "answerB": "A teacher",
+            "answerC": "A poet",
+            "answerD": "A musician",
+            "rightAnswer": "C",
+            "score": 200
+        },
+        {
+            "section": "Cultura",
+            "question": "Olímpio Bonald Neto museum is dedicated to",
+            "answerA": "Frevo",
+            "answerB": "Bacamarte",
+            "answerC": "Maracatu",
+            "answerD": "Coco de roda",
+            "rightAnswer": "B",
+            "score": 200
+        },
+        {
+            "section": "Cultura",
+            "question": "Who is Ivan Marinho?",
+            "answerA": "Artist",
+            "answerB": "Singer",
+            "answerC": "Designer",
+            "answerD": "Dancer",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question": "Banda Filarmônica XV de Novembro Cabense is a",
+            "answerA": "Musical group",
+            "answerB": "Dance group",
+            "answerC": "Maracatu",
+            "answerD": "Quadrilha",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question": "Three types of music that symbolize Carnival in Cabo de Santo Agostinho:",
+            "answerA": "rock, samba and frevo",
+            "answerB": "Frevo, caboclinhos and maracatu",
+            "answerC": "MPB, rock and axé",
+            "answerD": "Gospel, Rock and MPB",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Cultura",
+            "question": "In 2017, Sociedade dos Bacamarteiros do Cabo de Santo Agostinho (SOBAC) celebrated",
+            "answerA": "20 years",
+            "answerB": "30 years",
+            "answerC": "50 years",
+            "answerD": "100 years",
+            "rightAnswer": "C",
+            "score": 200
+        },
+        {
+            "section": "Cultura",
+            "question": "Who is the patron saint of Cabo de Santo Agostinho?",
+            "answerA": "São Pedro",
+            "answerB": "Santo Antônio",
+            "answerC": "São Benedito",
+            "answerD": "São João",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Turismo",
+            "question": "Forte Castelo do Mar is known by the name:",
+            "answerA": "Forte de Nazaré ",
+            "answerB": "Casa Forte",
+            "answerC": "Castelo Forte",
+            "answerD": "Forte Orange",
+            "rightAnswer": "A",
+            "score": 150
+        },
+        {
+            "section": "Turismo",
+            "question": "Where is located Forte Castelo do Mar?",
+            "answerA": "Itapuama",
+            "answerB": "Pontal de Nazaré",
+            "answerC": "Suape",
+            "answerD": "Paiva",
+            "rightAnswer": "B",
+            "score": 150
+        },
+        {
+            "section": "Turismo",
+            "question": "Where is located the church Matriz do Cabo de Santo Agostinho?",
+            "answerA": "Vila de Nazaré",
+            "answerB": "Cidade Garapu",
+            "answerC": "Charneca",
+            "answerD": "Centro",
+            "rightAnswer": "D",
+            "score": 150
+        },
+        {
+            "section": "Turismo",
+            "question": "What is the name of the church Matriz do Cabo de Santo Agostinho?",
+            "answerA": "Santo Amaro",
+            "answerB": "São Bento",
+            "answerC": "Santo Antônio",
+            "answerD": "São Benedito",
+            "rightAnswer": "C",
+            "score": 250
+        },
+        {
+            "section": "Turismo",
+            "question": "During the occupation of Dutch, Forte Castelo do Mar was known by:",
+            "answerA": "Velho Quartel",
+            "answerB": "Vila Tatuoca",
+            "answerC": "Water Kastell",
+            "answerD": "Forte Orange",
+            "rightAnswer": "C",
+            "score": 250
+        },
+        {
+            "section": "Turismo",
+            "question": "Where the 1st Rural Tourism Festival took place?",
+            "answerA": "Jussaral",
+            "answerB": "Pontezinha",
+            "answerC": "Ponte dos Carvalhos",
+            "answerD": "Charneca",
+            "rightAnswer": "A",
+            "score": 250
+        },
+        {
+            "section": "Turismo",
+            "question": "Why a Rural Tourism Festival is important to Cabo de Santo Agostinho?",
+            "answerA": "Because of the potential of the rural region.",
+            "answerB": "Because is important to explore the urban area.",
+            "answerC": "It is not important!",
+            "answerD": "Because tourists don’t like urban area.",
+            "rightAnswer": "A",
+            "score": 150
+        },
+        {
+            "section": "Turismo",
+            "question": "Programa Cabo Qualitur:",
+            "answerA": "Qualifies restaurants",
+            "answerB": "Qualifies tourist services ",
+            "answerC": "Qualifies hotels",
+            "answerD": "Qualifies schools",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Turismo",
+            "question": "Forte Real de Nazaré was built in:",
+            "answerA": "15th century by Portuguese",
+            "answerB": "17th century by Portuguese",
+            "answerC": "16th century by Africans",
+            "answerD": "18th century by Spanish",
+            "rightAnswer": "B",
+            "score": 250
+        },
+        {
+            "section": "Turismo",
+            "question": "Centro de Artesanato Arquiteto Wilson de Queiroz Campos Júnior is focused on:",
+            "answerA": "Ceramics",
+            "answerB": "Food",
+            "answerC": "Music",
+            "answerD": "Shows",
+            "rightAnswer": "A",
+            "score": 150
+        },
+        {
+            "section": "Turismo",
+            "question": "They are touristic places in Cabo de Santo Agostinho:",
+            "answerA": "Forte Castelo do Mar ruins and Calhetas beach",
+            "answerB": "Forte Orange and Alto da Sé",
+            "answerC": "Mercado de São José and Casa da Cultura",
+            "answerD": "Marco Zero and Teatro de Santa Isabel",
+            "rightAnswer": "A",
+            "score": 50
+        },
+        {
+            "section": "Turismo",
+            "question": "Engenho Massangana______ a touristic place in Cabo de Santo Agostinho.",
+            "answerA": "are",
+            "answerB": "is",
+            "answerC": "am",
+            "answerD": "are not",
+            "rightAnswer": "B",
+            "score": 50
+        },
+        {
+            "section": "Turismo",
+            "question": "It is an old church in Cabo de Santo Agostinho.",
+            "answerA": "Engenho Massangana",
+            "answerB": "Gaibu",
+            "answerC": "Igreja de Nossa Senhora de Nazaré",
+            "answerD": "Museu do Pescador",
+            "rightAnswer": "C",
+            "score": 100
+        },
+        {
+            "section": "Turismo",
+            "question": "I love _____ places: museums, churches and beaches.",
+            "answerA": "two",
+            "answerB": "one",
+            "answerC": "three",
+            "answerD": "four",
+            "rightAnswer": "C",
+            "score": 50
+        },
+        {
+            "section": "Turismo",
+            "question": "Museu do Pescador is a...",
+            "answerA": "church",
+            "answerB": "museum",
+            "answerC": "beach",
+            "answerD": "park",
+            "rightAnswer": "B",
+            "score": 50
+        },
+        {
+            "section": "Turismo",
+            "question": "The colors of trees are:",
+            "answerA": "green and brown",
+            "answerB": "black and white",
+            "answerC": "red and blue",
+            "answerD": "pink and orange",
+            "rightAnswer": "A",
+            "score": 50
+        },
+        {
+            "section": "Turismo",
+            "question": "Vila Galé is an... in Cabo de Santo Agostinho",
+            "answerA": "eco resort",
+            "answerB": "beach",
+            "answerC": "church",
+            "answerD": "fort",
+            "rightAnswer": "A",
+            "score": 100
+        },
+        {
+            "section": "Turismo",
+            "question": "________ was in Cabo de Santo Agostinho on January 26, 1500",
+            "answerA": "Pedro Álvares Cabral",
+            "answerB": "Vicente Yáñez Pinzón",
+            "answerC": "Santo Agostinho",
+            "answerD": "Pero Vaz de Caminha",
+            "rightAnswer": "B",
+            "score": 100
+        },
+        {
+            "section": "Turismo",
+            "question": "Marque a opção que pode substituir a seguinte frase: Sheraton is a hotel in Paiva beach.",
+            "answerA": "He is a hotel in Paiva beach.",
+            "answerB": "She is a hotel in Paiva beach.",
+            "answerC": "They are a hotel in Paiva beach.",
+            "answerD": "It is a hotel in Paiva beach.",
+            "rightAnswer": "D",
+            "score": 100
+        },
+        {
+            "section": "Turismo",
+            "question": "He is a surfer in Itapuama. He uses a_______________to surf in the water.",
+            "answerA": "surfboard",
+            "answerB": "board",
+            "answerC": "parasol",
+            "answerD": "beach ball",
+            "rightAnswer": "A",
+            "score": 50
+        }
+    ]
+}

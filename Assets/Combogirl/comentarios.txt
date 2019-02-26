@@ -1,0 +1,430 @@
+[
+{
+comentario: "Linda!"
+indole: "positivo"
+cod: 001
+},
+{
+comentario: "Maravilhosa!"
+indole: "positivo"
+cod: 002
+},
+{
+comentario: "Tá indo muito bem!"
+indole: "positivo"
+cod: 003
+},
+{
+comentario: "Boaaaa"
+indole: "positivo"
+cod: 004
+},
+{
+comentario: "continue assim :))"
+indole: "positivo"
+cod: 005
+},
+{
+comentario: "adorei"
+indole: "positivo"
+cod: 006
+},
+{
+comentario: "Muito bom!"
+indole: "positivo"
+cod: 007
+},
+{
+comentario: "Tô adorando a live!"
+indole: "positivo"
+cod: 008
+},
+{
+comentario: "essa foi boa"
+indole: "positivo"
+cod: 009
+},
+{
+comentario: "hahahaha"
+indole: "positivo"
+cod: 010
+},
+{
+comentario: "kkkkkkkk xD"
+indole: "positivo"
+cod: 011
+},
+{
+comentario: "Isso mesmo, falou tudo <3"
+indole: "positivo"
+cod: 012
+}
+{
+comentario: "Joga demais! *0*"
+indole: "positivo"
+cod: 013
+},
+{
+comentario: "Suas lives são incríveis!"
+indole: "positivo"
+cod: 014
+},
+{
+comentario: "Tu manda muito bem!"
+indole: "positivo"
+cod: 015
+},
+{
+comentario: "Vai lá, vc consegue!"
+indole: "positivo"
+cod: 016
+},
+{
+comentario: "Divaaaaa"
+indole: "positivo"
+cod: 017
+},
+{
+comentario: "Suas streams estão cada vez melhores <3"
+indole: "positivo"
+cod: 018
+},
+{
+comentario: "mandou bem"
+indole: "positivo"
+cod: 019
+},
+{
+comentario: "Quase lá, calma q vc consegue"
+indole: "positivo"
+cod: 020
+},
+{
+comentario: "Acreditamos em vc"
+indole: "positivo"
+cod: 021
+},
+{
+comentario: "Bom dia :3"
+indole: "positivo"
+cod: 022
+},
+{
+comentario: "haha adoro esse jogo"
+indole: "positivo"
+cod: 023
+},
+{
+comentario: "Nunca me canso de assistir"
+indole: "positivo"
+cod: 024
+},
+{
+comentario: "Adoro teu trabalho"
+indole: "positivo"
+cod: 025
+},
+{
+comentario: "Meu deus, tá jogando muito <3"
+indole: "positivo"
+cod: 026
+},
+{
+comentario: "Tão fofa vc *--*"
+indole: "positivo"
+cod: 027
+},
+{
+comentario: "Aeeeeeee <3"
+indole: "positivo"
+cod: 028
+},
+{
+comentario: "Muito bom!"
+indole: "positivo"
+cod: 029
+},
+{
+comentario: "Continue assim"
+indole: "positivo"
+cod: 030
+},
+{
+comentario: "Essa garota vai longe"
+indole: "positivo"
+cod: 031
+},
+{
+comentario: "Aí sim"
+indole: "positivo"
+cod: 032
+},
+{
+comentario: "Eita, se garantiu"
+indole: "positivo"
+cod: 033
+},
+{
+comentario: "hahaha amei muito"
+indole: "positivo"
+cod: 034
+},
+{
+comentario: ":D :D :D"
+indole: "positivo"
+cod: 035
+},
+{
+comentario: "xD xD xD"
+indole: "positivo"
+cod: 036
+},
+{
+comentario: "*O*"
+indole: "positivo"
+cod: 037
+},
+{
+comentario: "*--------------*"
+indole: "positivo"
+cod: 038
+},
+{
+comentario: ">w<"
+indole: "positivo"
+cod: 039
+},
+{
+comentario: "<3 <3 <3 <3 <3"
+indole: "positivo"
+cod: 040
+},
+{
+comentario: "****!"
+indole: "negativo"
+cod: 041
+},
+{
+comentario: ">:("
+indole: "negativo"
+cod: 042
+},
+{
+comentario: "********"
+indole: "negativo"
+cod: 043
+},
+{
+comentario: "Meu deus como joga mal... tinha que ser mulher"
+indole: "negativo"
+cod: 044
+},
+{
+comentario: "Garotas nem deviam estar jogando isso"
+indole: "negativo"
+cod: 045
+},
+{
+comentario: "Tinha que ser garota kkkkkkk xD credo"
+indole: "negativo"
+cod: 046
+},
+{
+comentario: "Só ganha views pq é menina..."
+indole: "negativo"
+cod: 047
+},
+{
+comentario: "Péssima"
+indole: "negativo"
+cod: 048
+},
+{
+comentario: "Ainda bem que não caí no time dela"
+indole: "negativo"
+cod: 049
+},
+{
+comentario: "Vai lavar uma louça!"
+indole: "negativo"
+cod: 050
+},
+{
+comentario: "Lugar de mulher é na cozinha"
+indole: "negativo"
+cod: 051
+},
+{
+comentario: "Jogando de tank? único tanque pra vc é o de lavar roupa"
+indole: "negativo"
+cod: 052
+},
+{
+comentario: "Sério, mulher não devia jogar, tá estragando o jogo"
+indole: "negativo"
+cod: 053
+},
+{
+comentario: "era pra jogar de  suporte, é garota"
+indole: "negativo"
+cod: 054
+},
+{
+comentario: "Onde já se viu menina jogando sem ser de suporte"
+indole: "negativo"
+cod: 055
+},
+{
+comentario: "Garota jogando é o fim do mundo"
+indole: "negativo"
+cod: 056
+},
+{
+comentario: "Quanto moleque só pra ver uma garota jogando"
+indole: "negativo"
+cod: 057
+},
+{
+comentario: "tinha que ser mulher"
+indole: "negativo"
+cod: 058
+},
+{
+comentario: "MDS foi horrível"
+indole: "negativo"
+cod: 059
+},
+{
+comentario: "mulher sabe jogar nada mesmo"
+indole: "negativo"
+cod: 060
+},
+{
+comentario: "sai daí!"
+indole: "negativo"
+cod: 061
+},
+{
+comentario: "pra quê to assistindo isso?"
+indole: "negativo"
+cod: 062
+},
+{
+comentario: "Além de garota, tem sotaque de nordestina, eca"
+indole: "negativo"
+cod: 063
+},
+{
+comentario: "Dica: fecha o jogo"
+indole: "negativo"
+cod: 064
+},
+{
+comentario: "alt+F4"
+indole: "negativo"
+cod: 065
+},
+{
+comentario: "cadê o botão de dislike?"
+indole: "negativo"
+cod: 066
+},
+{
+comentario: "Vai vestir alguma roupa decente"
+indole: "negativo"
+cod: 067
+},
+{
+comentario: "Desiste"
+indole: "negativo"
+cod: 068
+},
+{
+comentario: "pouca vergonha"
+indole: "negativo"
+cod: 069
+},
+{
+comentario: "Fosse namorada minha não se vestia assim"
+indole: "negativo"
+cod: 070
+},
+{
+comentario: "feminazi!"
+indole: "negativo"
+cod: 071
+},
+{
+comentario: "Mulher de cabelo curto pra mim é homem"
+indole: "negativo"
+cod: 072
+},
+{
+comentario: "Troca de personagem pelo amor..."
+indole: "negativo"
+cod: 073
+},
+{
+comentario: "Terrível"
+indole: "negativo"
+cod: 074
+},
+{
+comentario: "Vai arrumar uma roupa pra lavar!"
+indole: "negativo"
+cod: 075
+},
+{
+comentario: "Se caio numa partida com uma garota assim eu quito na hora"
+indole: "negativo"
+cod: 076
+},
+{
+comentario: "Além de jogar mal é feia"
+indole: "negativo"
+cod: 077
+},
+{
+comentario: "palhaçada assistir isso..."
+indole: "negativo"
+cod: 078
+},
+{
+comentario: "ô lá em casa >:)"
+indole: "negativo"
+cod: 079
+},
+{
+comentario: "Alguém reporta ela, joga mal demais"
+indole: "negativo"
+cod: 080
+},
+{
+comentario: "Que  *****"
+indole: "negativo"
+cod: 081
+},
+{
+comentario: "É até bonitinha mas como joga mal..."
+indole: "negativo"
+cod: 082
+},
+{
+comentario: "Se acha só pq é garota"
+indole: "negativo"
+cod: 083
+},
+{
+comentario: "Joga mt mal"
+indole: "negativo"
+cod: 084
+},
+{
+comentario: "Noob"
+indole: "negativo"
+cod: 085
+}
+]
+
+
+
